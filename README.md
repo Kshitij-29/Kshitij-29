@@ -32,17 +32,17 @@ YOUR CITY | online since 20XX
 
 | ID | PROJECT | STACK | STATE |
 |----|---------|-------|-------|
-| 001 | [project-one](https://github.com/USERNAME/project-one), one line on what it does | python, fastapi | `[ ONLINE ]` |
-| 002 | [project-two](https://github.com/USERNAME/project-two), one line on what it does | typescript, react | `[ WIP ]` |
-| 003 | [project-three](https://github.com/USERNAME/project-three), one line on what it does | rust | `[ OFFLINE ]` |
+| 001 | [project-one](https://github.com/Kshitij-29/project-one), one line on what it does | python, fastapi | `[ ONLINE ]` |
+| 002 | [project-two](https://github.com/Kshitij-29/project-two), one line on what it does | typescript, react | `[ WIP ]` |
+| 003 | [project-three](https://github.com/Kshitij-29/project-three), one line on what it does | rust | `[ OFFLINE ]` |
 
 <img src="assets/cyber-divider.svg" width="100%" alt="">
 
 ## // 04 TELEMETRY
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=07060f&title_color=ff2bd6&text_color=00f0ff&icon_color=fcee0a" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=07060f&title_color=ff2bd6&text_color=00f0ff" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kshitij-29&show_icons=true&hide_border=true&bg_color=07060f&title_color=ff2bd6&text_color=00f0ff&icon_color=fcee0a" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-29&layout=compact&hide_border=true&bg_color=07060f&title_color=ff2bd6&text_color=00f0ff" alt="Top languages">
 </p>
 
 <img src="assets/cyber-divider.svg" width="100%" alt="">
@@ -50,8 +50,8 @@ YOUR CITY | online since 20XX
 ## // 05 COMMS
 
 [![email](https://img.shields.io/badge/email-0b0818?style=flat-square&logo=gmail&logoColor=ff2bd6)](mailto:you@example.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0b0818?style=flat-square&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/USERNAME)
-[![x](https://img.shields.io/badge/x-0b0818?style=flat-square&logo=x&logoColor=fcee0a)](https://x.com/USERNAME)
+[![linkedin](https://img.shields.io/badge/linkedin-0b0818?style=flat-square&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/Kshitij-29)
+[![x](https://img.shields.io/badge/x-0b0818?style=flat-square&logo=x&logoColor=fcee0a)](https://x.com/Kshitij-29)
 
 <br>
 
