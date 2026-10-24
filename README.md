@@ -1,61 +1,58 @@
-<div align="center">
-
-<img src="assets/mario-banner.svg" alt="8-bit platformer banner" width="100%">
+<img src="assets/cyber-banner.svg" alt="Cyberpunk banner" width="100%">
 
 <br>
 
-![WORLD](https://img.shields.io/badge/WORLD-1--1-e52521?style=for-the-badge)
-![LIVES](https://img.shields.io/badge/LIVES-3-fbd000?style=for-the-badge&labelColor=333)
-![POWER-UP](https://img.shields.io/badge/POWER--UP-SUPER%20DEV-43b047?style=for-the-badge)
+## // 01 IDENTITY
 
-</div>
+```text
+$ whoami
+YOUR NAME :: software engineer
 
----
+$ cat /etc/mission
+build things that ship.
 
-## 🍄 WORLD 1-1: ABOUT ME
-
-```
-> NAME     : Kshitij
-> CLASS    : SOFTWARE ENGINEER
-> HOME     : YOUR CITY
-> QUEST    : BUILD COOL STUFF, SHIP IT, REPEAT
-> STATUS   : READY PLAYER ONE
+$ uptime
+YOUR CITY | online since 20XX
 ```
 
-## ⭐ POWER-UPS (TECH STACK)
+<img src="assets/cyber-divider.svg" width="100%" alt="">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## // 02 LOADOUT
 
-## 🗺️ WORLD SELECT (PROJECTS)
+![python](https://img.shields.io/badge/python-0b0818?style=flat-square&logo=python&logoColor=00f0ff)
+![typescript](https://img.shields.io/badge/typescript-0b0818?style=flat-square&logo=typescript&logoColor=00f0ff)
+![react](https://img.shields.io/badge/react-0b0818?style=flat-square&logo=react&logoColor=ff2bd6)
+![node](https://img.shields.io/badge/node-0b0818?style=flat-square&logo=nodedotjs&logoColor=ff2bd6)
+![docker](https://img.shields.io/badge/docker-0b0818?style=flat-square&logo=docker&logoColor=fcee0a)
+![linux](https://img.shields.io/badge/linux-0b0818?style=flat-square&logo=linux&logoColor=fcee0a)
 
-| WORLD | QUEST | POWER-UPS | STATUS |
-|:-----:|-------|-----------|:------:|
-| 1-1 | [**Project One**](https://github.com/USERNAME/project-one), short description | Python, FastAPI | 🟢 CLEARED |
-| 1-2 | [**Project Two**](https://github.com/USERNAME/project-two), short description | TypeScript, React | 🟡 IN PROGRESS |
-| 1-3 | [**Project Three**](https://github.com/USERNAME/project-three), short description | Rust | 🔴 LOCKED |
+<img src="assets/cyber-divider.svg" width="100%" alt="">
 
-## 🪙 HIGH SCORES
+## // 03 ACTIVE PROJECTS
 
-<div align="center">
+| ID | PROJECT | STACK | STATE |
+|----|---------|-------|-------|
+| 001 | [project-one](https://github.com/USERNAME/project-one), one line on what it does | python, fastapi | `[ ONLINE ]` |
+| 002 | [project-two](https://github.com/USERNAME/project-two), one line on what it does | typescript, react | `[ WIP ]` |
+| 003 | [project-three](https://github.com/USERNAME/project-three), one line on what it does | rust | `[ OFFLINE ]` |
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=5c94fc&title_color=fbd000&text_color=ffffff&icon_color=e52521" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=5c94fc&title_color=fbd000&text_color=ffffff" alt="Top languages">
+<img src="assets/cyber-divider.svg" width="100%" alt="">
 
-</div>
+## // 04 TELEMETRY
 
-## 🟩 WARP PIPE (CONTACT)
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=07060f&title_color=ff2bd6&text_color=00f0ff&icon_color=fcee0a" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=07060f&title_color=ff2bd6&text_color=00f0ff" alt="Top languages">
+</p>
 
-[![Email](https://img.shields.io/badge/EMAIL-e52521?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USERNAME)
+<img src="assets/cyber-divider.svg" width="100%" alt="">
+
+## // 05 COMMS
+
+[![email](https://img.shields.io/badge/email-0b0818?style=flat-square&logo=gmail&logoColor=ff2bd6)](mailto:you@example.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0b0818?style=flat-square&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/USERNAME)
+[![x](https://img.shields.io/badge/x-0b0818?style=flat-square&logo=x&logoColor=fcee0a)](https://x.com/USERNAME)
 
 <br>
 
-<div align="center">
-<img src="assets/mario-footer.svg" alt="Thanks for visiting" width="100%">
-</div>
+<img src="assets/cyber-footer.svg" alt="Connection closed" width="100%">
