@@ -6,7 +6,7 @@
 
 ```text
 $ whoami
-YOUR NAME :: software engineer
+KSHITIJ :: software engineer
 
 $ cat /etc/mission
 build things that ship.
